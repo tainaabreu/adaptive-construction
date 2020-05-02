@@ -1,0 +1,13 @@
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+fail-if-warnings        : True
+file-scope              : True
+default-image-extension : '.jpg'
+bibliography            : '_data/biblio.yaml'
+csl                     : 'lib/styles/chicago-author-date.csl'
+resource-path:
+- .
+- fig
+metadata:
+  suppress-bibliography   : True

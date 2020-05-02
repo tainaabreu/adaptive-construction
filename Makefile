@@ -36,8 +36,8 @@ docs/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll
 #   Reveal.js framework.
 # - virtualenv: sets up a virtual environment (but you still need to activate
 #   it from the command line).
-.PHONY : install link-template makedirs submodule virtualenv bundle serve clean
-install : link-template makedirs submodule csl virtualenv license
+.PHONY : install template submodule virtualenv clean
+install : template submodule csl virtualenv license
 	bundle install
 
 makedirs :
@@ -49,13 +49,13 @@ csl : .install/git/modules/lib/styles/info/sparse-checkout
 		git checkout master && git pull && \
 		git read-tree -m -u HEAD
 
-submodule_init :
+submodule :
 	# Generating a repo from a GitHub template breaks the submodules.
 	# As a workaround, we init the submodules after cloning the template repo
 	# instead of including them in the source template.
 	git submodule add https://github.com/hakimel/reveal.js.git docs/reveal.js
 	git submodule add https://github.com/citation-style-language/styles.git lib/styles
-	git sumbodule add https://github.com/jgm/pandoc-templates.git lib/pandoc-templates
+	git submodule add https://github.com/jgm/pandoc-templates.git lib/pandoc-templates
 
 template :
 	-git remote add template git@github.com:p3palazzo/research_template.git

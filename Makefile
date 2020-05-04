@@ -12,12 +12,12 @@ vpath default.% lib/pandoc-templates
 # Jekyll {{{2
 # ------
 SRC           = $(wildcard *.md)
-SITE         := $(patsubst %.md,docs/%.md, $(SRC))
+DOCS         := $(patsubst %.md,docs/%.md, $(SRC))
 
-serve : build
+serve : 
 	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated'
 
-build : $(SITE)
+build : $(DOCS)
 	cp -f _config.yml docs/
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'
 

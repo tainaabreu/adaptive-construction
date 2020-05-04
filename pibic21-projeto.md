@@ -103,15 +103,21 @@ construído é abordada, nesse espectro, como uma atividade-meio à qual
 compete, mormente, pôr em prática inovações tecnológicas e gerenciais
 capazes de atingir os resultados pretendidos.
 
-Tal visão implica, todavia, a intermediação de processos que por sua
-natureza são pouco resilientes: uniformização administrativa e
-otimização de cadeias industriais de ponta. Ambas estas categorias de
-processos são, porém, fortemente sujeitas a rupturas de cadeia ou a
-falhas de acesso, não apenas em contextos de desastres e calamidades,
-mas também, ou sobretudo, em condições prolongadas de depressão
-econômica, de dificuldades no aprovisionamento em produtos e energia, ou
-ainda de desigualdade socioeconômica persistente nas escalas
-interregional ou mesmo local.
+Tal visão implica, todavia, a mediação de processos que por sua natureza
+são pouco resilientes: uniformização administrativa e otimização de
+cadeias industriais de ponta. Ambas estas categorias de processos são
+fortemente sujeitas a rupturas de cadeia ou a falhas de acesso, não
+apenas em contextos de desastres e calamidades, mas também, ou
+sobretudo, em condições prolongadas de depressão econômica, de
+dificuldades no aprovisionamento em produtos e energia, ou ainda de
+desigualdade socioeconômica persistente nas escalas interregional ou
+mesmo local.
+
+Outrossim, a atual concepção de sustentabilidade como um "alvo em
+movimento" passível de aprimoramento não apenas nos resultados
+alcançados, mas também de expansão e aprofundamento nas próprias
+expectativas estabelecidas pelos indicadores de desempenho, demanda
+atenção a toda a cadeia de processos produtivos.
 
 A pesquisa acadêmica e o desenvolvimento tecnológico no domínio da
 construção sustentável se concentram, via de regra, em dois escopos

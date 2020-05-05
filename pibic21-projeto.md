@@ -18,7 +18,11 @@ Este projeto de pesquisa investiga a ocorrência de sistemas de ordem
 emergente na construção moderna brasileira --- da segunda metade do
 século XVIII à primeira metade do século XX ---, avaliando a
 possibilidade de estes sistemas oferecerem respostas descentralizadas e
-*low tech* aos problemas atuais da sustentabilidade urbana.
+*low tech* aos problemas atuais da sustentabilidade urbana. Atuaremos
+sobre três escalas da produção do tecido edificado: configurações de
+parcelamento do solo, morfologias espaciais na edilícia de base --- os
+tipos de edificações mais difundidos, como habitações, comércios e
+oficinas de pequeno porte ---, e sistemas construtivos vernáculos.
 A fundação e o crescimento de núcleos urbanos no Brasil de finais do
 período colonial até os primórdios da industrialização apresentam um
 panorama de ações descentralizadas, com reduzida tutela do Estado, e
@@ -66,9 +70,10 @@ estipulamos os objetivos a seguir.
 
 Objetivo geral
 
-: Identificar práticas construtivas vernáculas e padrões arquitetônicos
-  vigentes no Brasil da segunda metade do século XVIII à primeira metade
-  do XX que sejam representativos de sistemas de ordem emergente.
+: Realizar um inventário de práticas construtivas vernáculas e padrões
+  arquitetônicos vigentes no Brasil da segunda metade do século XVIII à
+  primeira metade do XX que sejam representativos de sistemas dotados de
+  ordem emergente.
 
 Objetivos específicos
 
@@ -77,9 +82,9 @@ Objetivos específicos
   modelos HBIM (Historic Building Information Modeling) e SIG (Sistemas
   de Informações Geográficas).
 
-: Compilar tipologias de sistemas construtivos e de padrões
-  arquitetônicos organizadas de modo a demonstrar suas distribuições
-  regionais e genealogias evolutivas.
+: Compilar tipologias de formas de parcelamento do solo, de padrões
+  arquitetônicos e de sistemas construtivos organizadas de modo a
+  demonstrar suas distribuições regionais e genealogias evolutivas.
 
 : Estabelecer um sistema de indicadores para avaliar a resiliência de
   tipos edilícios e de práticas construtivas no tempo e no espaço em
@@ -112,22 +117,23 @@ mesmo local.
 Outrossim, a atual concepção de sustentabilidade como um "alvo em
 movimento" --- passível não apenas de aprimoramento nos resultados
 alcançados, mas também de expansão e aprofundamento nas próprias
-expectativas estabelecidas pelos indicadores de desempenho --- sugere
-atenção a todas as cadeias de processos produtivos no ambiente
-edificado. O deslocamento do "alvo" da sustentabilidade urbana,
-entendido sob todos os seus aspectos --- ambiental, social, cultural e
-econômico --- adquire, assim, a forma de uma ampliação de horizontes
-para a diversidade de práticas e soluções, mais do que de um vetor
-linear no sentido de um conceito unívoco de "progresso". Os ganhos em
-otimização e eficiência em sistemas padronizados e centralizados --- o
-vetor singular de progresso --- resultam em fragilidade das cadeias
-produtivas. Esta relação de custo-benefício entre otimização e
-fragilidade é demonstrada pelas dificuldades que as indústrias de
-equipamentos hospitalares --- cadeias de alta complexidade requerendo
-insumos muito específicos, frequentemente oriundos do comércio exterior
---- e os governos centralizados encontraram em responder à pandemia da
-Covid--19. A recente crise sanitária global evidencia a necessidade de
-tais indústrias de alta complexidade e sistemas normativos centralizados
+expectativas estabelecidas pelos indicadores de desempenho
+[@blumenschein:2011inovacao2] --- sugere atenção a todas as cadeias de
+processos produtivos no ambiente edificado. O deslocamento do "alvo" da
+sustentabilidade urbana, entendido sob todos os seus aspectos ---
+ambiental, social, cultural e econômico --- adquire, assim, a forma de
+uma ampliação de horizontes para a diversidade de práticas e soluções,
+mais do que de um vetor linear no sentido de um conceito unívoco de
+"progresso". Os ganhos em otimização e eficiência em sistemas
+padronizados e centralizados --- o vetor singular de progresso ---
+resultam em fragilidade das cadeias produtivas. Esta relação de
+custo-benefício entre otimização e fragilidade é demonstrada pelas
+dificuldades que as indústrias de equipamentos hospitalares --- cadeias
+de alta complexidade requerendo insumos muito específicos,
+frequentemente oriundos do comércio exterior --- e os governos
+centralizados encontraram em responder à pandemia da Covid--19. A
+recente crise sanitária global evidencia a necessidade de tais
+indústrias de alta complexidade e sistemas normativos centralizados
 serem suplementados por cadeias produtivas locais e processos decisórios
 descentralizados.
 
@@ -157,19 +163,78 @@ Metodologia
 
 O inventário crítico de práticas construtivas históricas é um
 instrumental capaz de apontar uma variedade de direções nas quais pode
-se dar a expansão do "alvo" da sustentabilidade. Realizar uma pesquisa
-histórica desafia, contudo, o paradigma indiciário das ciências sociais.
-Séries de dados quantitativos tornam-se tanto menos confiáveis, quando
-não desaparecem por completo, quanto mais o objeto da pesquisa recua no
-tempo e se afasta dos grandes centros administrativos e econômicos.
-Mesmo registros descritivos, de natureza qualitativa, tornam-se esparsos
-quando o objeto em questão é o conjunto de processos, técnicas e
-produtos vernáculos, alheio à alta cultura letrada e à tecnocracia
-administrativa e acadêmica. O caráter disperso e fragmentário do acervo
-edificado histórico, vítima de repetidos ciclos de renovação urbana,
-dificulta ainda mais a aquisição de séries amostrais representativas, em
-que pesem os esforços de compilação documental realizados em alguns
-contextos [@bueno:2005tecido].
+se dar a expansão do "alvo" da sustentabilidade. À semelhança do objeto
+desta pesquisa --- os contextos edilícios tradicionais cuja ordem
+emergente buscaremos evidenciar ---, o procedimento de elaboração do
+inventário procede, à medida do tratamento das fontes, por adaptações
+recorrentes do seu modelo de classificação. Essas adaptações serão
+mediadas pelo instrumental analítico dos estudos morfológicos
+urbanísticos e arquitetônicos.
 
-<!--Até 5000 caracteres-->
+Realizar uma pesquisa histórica desafia
+o paradigma indiciário das ciências sociais. Séries de dados
+quantitativos tornam-se tanto menos confiáveis, se não desaparecem por
+completo, quanto mais o objeto da pesquisa recua no tempo e se afasta
+dos grandes centros administrativos e econômicos. Mesmo registros
+descritivos, de natureza qualitativa, tornam-se esparsos quando o objeto
+em questão é o conjunto de processos, técnicas e produtos vernáculos,
+alheio à alta cultura letrada e à tecnocracia administrativa e
+acadêmica. O caráter disperso e fragmentário do acervo edificado
+histórico, vítima de repetidos ciclos de renovação urbana, dificulta
+ainda mais a aquisição de séries amostrais representativas, em que pesem
+os esforços de compilação documental realizados em alguns contextos
+[@bueno:2005tecido].
+
+A constituição do acervo documental necessário a qualquer análise será,
+portanto, nossa primeira e principal preocupação. Levantamentos
+arquitetônicos existentes se encontram dispersos em arquivos e, por
+vezes, em publicações variadas. O desafio metodológico consiste em
+sistematizar os dados extraídos desses levantamentos, de modo a
+torná-los comparáveis entre si. Essa sistematização compreende duas
+etapas interdependentes: a elaboração de ontologias classificatórias e a
+representação dos objetos da pesquisa por meio dessas ontologias. Assim,
+a leitura analítica das fontes documentais e dos levantamentos gráficos
+e cartográficos conduz à identificação de padrões espaciais e
+construtivos, que por sua vez empregaremos para organizar o material
+pesquisado.
+
+As três escalas que configuram nossa abordagem do objeto correspondem,
+também, a três categorias de ferramentas de apoio ao processamento do
+universo documental e gráfico. Na escala do parcelamento urbano,
+utilizaremos Sistemas de Informação Geográfica (SIG) para identificar
+padrões de dimensões lineares e de proporções de lotes recorrentes,
+associando-os às configurações arquitetônicas que eles comportam. O
+instrumental teórico da morfologia urbana, tal como concebido por
+@conzen:2004thinking, permite extrair desses padrões identificados na
+cartografia os processos de crescimento, consolidação e reforma do
+tecido das cidades.
+
+As tipologias espaciais nas edificações estudadas podem, igualmente, ser
+analisadas por meio do SIG para evidenciar relações dimensionais e
+posicionais entre ambientes. Tais relações são codificadas pelas
+ferramentas da sintaxe espacial [@holanda:2002espaco], tendo especial
+pertinência na escala da edificação os grafos de profundidade e os mapas
+de visibilidade [@gurgel:2017aliando6].
+
+Os padrões construtivos, que evidenciam a persistência e a transformação
+de práticas profissionais e de modos de organização das cadeias
+produtivas vernáculas, podem ser documentados graficamente e por meio de
+modelos digitais tridimensionais. Para além da forma dos componentes da
+edificação, estes modelos devem conter metadados que identifiquem
+materiais empregados, procedimentos construtivos e, onde pertinente,
+sucessivas adaptações e alterações no tecido edificado. O estado da arte
+da pesquisa em construções históricas está atualmente voltado para o
+emprego de sistemas de Historic Building Information Modeling (HBIM). No
+HBIM, a representação tridimensional da edificação serve como suporte
+para a inclusão de informações semânticas, mas também para a modelagem e
+avaliação de cenários e prognósticos [@pocobelli:2018buildingXLII].
+
+Os resultados alcançados em cada escala de análise devem ser
+interpretados de modo sistêmico, atentando para as relações entre o
+substrato urbanístico portante, as configurações espaciais e edilícias
+realizáveis nos padrões de parcelamento do solo observados, e a
+materialização construtiva desses espaços arquitetônicos. As
+aproximações e divergências eventualmente verificadas no universo de
+objetos a serem documentados oferecerão os indícios para elaborar
+taxonomias de sistemas edilícios tradicionais.
 

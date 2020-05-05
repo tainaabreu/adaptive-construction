@@ -5,6 +5,7 @@ lang  : pt
 csl   : lib/styles/associacao-brasileira-de-normas-tecnicas.csl
 bibliography: biblio.bib
 suppress-bibliography: false
+nocite: "@*"
 ---
 
 Resiliência urbana: estratégias adaptativas na construção tradicional
@@ -18,7 +19,6 @@ emergente na construção moderna brasileira --- da segunda metade do
 século XVIII à primeira metade do século XX ---, avaliando a
 possibilidade de estes sistemas oferecerem respostas descentralizadas e
 *low tech* aos problemas atuais da sustentabilidade urbana.
-
 A fundação e o crescimento de núcleos urbanos no Brasil de finais do
 período colonial até os primórdios da industrialização apresentam um
 panorama de ações descentralizadas, com reduzida tutela do Estado, e
@@ -55,7 +55,6 @@ hipótese oferecida acima deve proceder, portanto, inicialmente
 compilando um corpo documental representativo dos produtos e processos
 designados como tradicionais, para então formular um sistema de
 indicadores e métricas de resiliência.
-
 O conceito de resiliência urbana tem sido implementado, via de regra,
 com respeito à recuperação após desastres naturais
 [@khazai:2018resilience31], ou ainda a aspectos socioeconômicos alheios
@@ -87,8 +86,6 @@ Objetivos específicos
   contextos de transformação gradual das condicionantes culturais,
   políticas e técnicas.
 
-<!--Até 5000 caracteres-->
-
 Justificativa e bibliografia
 ----------------------------
 
@@ -101,8 +98,7 @@ resultados de longo prazo nos âmbitos socioeconômico, sanitário,
 energético, etc., diretamente mensuráveis. A produção do ambiente
 construído é abordada, nesse espectro, como uma atividade-meio à qual
 compete, mormente, pôr em prática inovações tecnológicas e gerenciais
-capazes de atingir os resultados pretendidos.
-
+capazes de atingir os resultados pretendidos. 
 Tal visão implica, todavia, a mediação de processos que por sua natureza
 são pouco resilientes: uniformização administrativa e otimização de
 cadeias industriais de ponta. Ambas estas categorias de processos são
@@ -114,27 +110,66 @@ desigualdade socioeconômica persistente nas escalas interregional ou
 mesmo local.
 
 Outrossim, a atual concepção de sustentabilidade como um "alvo em
-movimento" passível de aprimoramento não apenas nos resultados
+movimento" --- passível não apenas de aprimoramento nos resultados
 alcançados, mas também de expansão e aprofundamento nas próprias
-expectativas estabelecidas pelos indicadores de desempenho, demanda
-atenção a toda a cadeia de processos produtivos.
+expectativas estabelecidas pelos indicadores de desempenho --- sugere
+atenção a todas as cadeias de processos produtivos no ambiente
+edificado. O deslocamento do "alvo" da sustentabilidade urbana,
+entendido sob todos os seus aspectos --- ambiental, social, cultural e
+econômico --- adquire, assim, a forma de uma ampliação de horizontes
+para a diversidade de práticas e soluções, mais do que de um vetor
+linear no sentido de um conceito unívoco de "progresso". Os ganhos em
+otimização e eficiência em sistemas padronizados e centralizados --- o
+vetor singular de progresso --- resultam em fragilidade das cadeias
+produtivas. Esta relação de custo-benefício entre otimização e
+fragilidade é demonstrada pelas dificuldades que as indústrias de
+equipamentos hospitalares --- cadeias de alta complexidade requerendo
+insumos muito específicos, frequentemente oriundos do comércio exterior
+--- e os governos centralizados encontraram em responder à pandemia da
+Covid--19. A recente crise sanitária global evidencia a necessidade de
+tais indústrias de alta complexidade e sistemas normativos centralizados
+serem suplementados por cadeias produtivas locais e processos decisórios
+descentralizados.
 
-A pesquisa acadêmica e o desenvolvimento tecnológico no domínio da
-construção sustentável se concentram, via de regra, em dois escopos
-principais: por um lado, na gestão pública e empresarial baseada em
-normas, certificações e processos decisórios centralizados, e por outro
-lado em cadeias industriais de ponta, focadas no desenvolvimento de
-produtos singulares com desempenho ambiental aprimorado. Ambos esses
-escopos são acessíveis, porém, apenas a uma reduzida parcela do universo
-"real" da construção civil no Brasil, caracterizado pela informalidade e
-descentralização dos agentes empresariais, bem como por esforços de
-inclusão socioeconômica autônomos, sem amparo de políticas públicas nem
-sequer reconhecimento legal de sua existência.
+Na construção dos tecidos urbanos no Brasil, de resto, a atuação à
+margem da tutela estatal e o recurso a saberes vernáculos, por parte de
+um universo fragmentado de agentes autônomos, caracterizam grande parte
+do volume edificado tanto na atualidade quanto em todo o processo
+formativo da cultura luso-brasileira. Em vez de enxergar essa realidade
+como um sintoma de "exclusão" tecnológica e normativa, ou como uma
+"falha de mercado", o conceito de horizonte alargado da sustentabilidade
+nos permite encontrar, nessa descentralização, fatores de resiliência
+tanto dos processos produtivos do ambiente edificado, quanto da forma
+urbana e edilícia resultante desses processos. Mais ainda, observar a
+construção vernácula numa perspectiva histórica oferece panoramas
+alternativos às contingências do contexto econômico, produtivo e
+normativo da atualidade.
+
+### Referências bibliográficas ###
+
+::: {#refs}
+:::
 
 <!--Até 8000 caracteres-->
 
 Metodologia
 -----------
+
+O inventário crítico de práticas construtivas históricas é um
+instrumental capaz de apontar uma variedade de direções nas quais pode
+se dar a expansão do "alvo" da sustentabilidade. Realizar uma pesquisa
+histórica desafia, contudo, o paradigma indiciário das ciências sociais.
+Séries de dados quantitativos tornam-se tanto menos confiáveis, quando
+não desaparecem por completo, quanto mais o objeto da pesquisa recua no
+tempo e se afasta dos grandes centros administrativos e econômicos.
+Mesmo registros descritivos, de natureza qualitativa, tornam-se esparsos
+quando o objeto em questão é o conjunto de processos, técnicas e
+produtos vernáculos, alheio à alta cultura letrada e à tecnocracia
+administrativa e acadêmica. O caráter disperso e fragmentário do acervo
+edificado histórico, vítima de repetidos ciclos de renovação urbana,
+dificulta ainda mais a aquisição de séries amostrais representativas, em
+que pesem os esforços de compilação documental realizados em alguns
+contextos [@bueno:2005tecido].
 
 <!--Até 5000 caracteres-->
 

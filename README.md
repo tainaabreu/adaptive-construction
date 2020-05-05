@@ -1,3 +1,8 @@
+---
+layout: page
+title : Adaptive strategies in traditional construction
+---
+
 Adaptive strategies in traditional construction
 ===============================================
 

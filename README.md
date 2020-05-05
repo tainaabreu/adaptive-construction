@@ -1,5 +1,10 @@
-Adaptive strategies in traditional building
-===========================================
+---
+layout: page
+title : Adaptive strategies in traditional construction
+---
+
+Adaptive strategies in traditional construction
+===============================================
 
 License
 -------

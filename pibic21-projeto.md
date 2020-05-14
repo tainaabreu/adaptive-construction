@@ -161,6 +161,19 @@ normativo da atualidade.
 Metodologia
 -----------
 
+Os objetivos desta pesquisa implicam uma sucessão de etapas consistindo
+em documentar, classificar e analisar vestígios materiais e registros
+gráficos da construção vernácula brasileira de meados do século XVIII a
+meados do XX. O paradigma do Historic Building Information Modeling
+(HBIM) e os Sistemas de Informação Geográfica (SIG) formarão a espinha
+dorsal metodológica desta pesquisa. Mais do que ferramentas ou softwares
+específicos, o HBIM e o SIG implicam modos de olhar para a documentação
+coletada como um conjunto de dados e propriedades inteligíveis, para
+além de sua representação gráfica abstrata. Eles permitem padronizar a
+documentação de elementos construtivos e urbanísticos históricos, ao
+mesmo tempo representar a diversidade de soluções técnicas e formais, e
+submeter o conjunto de dados coletados a análises quantitativas.
+
 O inventário crítico de práticas construtivas históricas é um
 instrumental capaz de apontar uma variedade de direções nas quais pode
 se dar a expansão do "alvo" da sustentabilidade. À semelhança do objeto

@@ -21,7 +21,7 @@ build : $(DOCS)
 	cp -f _config.yml docs/
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'
 
-docs/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll
+docs/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll biblio.bib
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
 # Install and cleanup {{{1

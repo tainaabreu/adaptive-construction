@@ -56,7 +56,7 @@ relative_links:
   collections: true
 readme_index:
   enabled:          true
-  remove_originals: true
+  remove_originals: false
   with_frontmatter: true
 
 exclude:

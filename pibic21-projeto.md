@@ -15,7 +15,7 @@ Planos de Trabalho
 - [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
   Ana Caroline dos Santos Paiva 
 - [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
-  Iriani Jéssica
+  Iriani Jéssica Pinto Ganga
 - [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
   Mariana de Fátima Macedo Nunes de Azevedo
 

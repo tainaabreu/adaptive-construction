@@ -11,8 +11,13 @@ nocite: "@*"
 Planos de Trabalho
 ==================
 
+
+- [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
+  Ana Caroline dos Santos Paiva 
 - [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
-  Iriani Jessica
+  Iriani Jéssica
+- [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
+  Mariana de Fátima Macedo Nunes de Azevedo
 
 Resiliência urbana: estratégias adaptativas na construção tradicional
 =====================================================================

@@ -8,6 +8,12 @@ suppress-bibliography: false
 nocite: "@*"
 ---
 
+Planos de Trabalho
+==================
+
+- [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
+  Iriani Jessica
+
 Resiliência urbana: estratégias adaptativas na construção tradicional
 =====================================================================
 

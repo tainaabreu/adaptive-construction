@@ -3,7 +3,7 @@ title : Projeto de pesquisa
 date  : 2020-05-04
 lang  : pt
 csl   : lib/styles/associacao-brasileira-de-normas-tecnicas.csl
-bibliography: biblio.bib
+bibliography: projeto.bib
 suppress-bibliography: false
 nocite: "@*"
 ---
@@ -91,8 +91,8 @@ Objetivos específicos
   contextos de transformação gradual das condicionantes culturais,
   políticas e técnicas.
 
-Justificativa e bibliografia
-----------------------------
+Justificativa
+-------------
 
 A resiliência da gestão urbana tem recebido, ao longo das últimas
 décadas, crescente destaque na literatura acadêmica e na formulação de
@@ -150,11 +150,6 @@ urbana e edilícia resultante desses processos. Mais ainda, observar a
 construção vernácula numa perspectiva histórica oferece panoramas
 alternativos às contingências do contexto econômico, produtivo e
 normativo da atualidade.
-
-### Referências bibliográficas ###
-
-::: {#refs}
-:::
 
 <!--Até 8000 caracteres-->
 
@@ -250,4 +245,10 @@ materialização construtiva desses espaços arquitetônicos. As
 aproximações e divergências eventualmente verificadas no universo de
 objetos a serem documentados oferecerão os indícios para elaborar
 taxonomias de sistemas edilícios tradicionais.
+
+Bibliografia crítica
+--------------------
+
+::: {#refs}
+:::
 

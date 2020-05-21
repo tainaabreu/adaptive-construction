@@ -1,5 +1,5 @@
 ---
-title    : "Arqueologia das antigas casas rurais no Distrito Federal e entorno"
+title    : "Arqueologia da casa da fazenda Gama"
 author   : "Ana Caroline dos Santos Paiva"
 date     : 2020-04-13
 ---
@@ -8,20 +8,20 @@ Objetivos, problema e justificativa
 ===================================
 
 Este plano de trabalho consiste na elaboração de um inventário
-documental de algumas casas rurais do século XIX no Distrito Federal e
-entorno, por meio de levantamento de campo e pesquisa em arquivos. O
-objetivo geral desta pesquisa é, portanto, descrever preliminarmente a
-inserção das casas rurais escolhidas no território do planalto Central e
-na história de sua ocupação luso-brasileira, apontando ainda semelhanças
-e diferenças entre elas quanto à composição arquitetônica, aos sistemas
-construtivos, e ao estado de conservação. Para tanto, derivam-se os
-seguintes objetivos específicos:
+documental da casa da fazenda Gama, uma residência rural do século XIX
+no Distrito Federal, por meio de levantamento de campo e pesquisa em
+arquivos. O objetivo geral desta pesquisa é, portanto, descrever
+preliminarmente a inserção das casas rurais escolhidas no território do
+planalto Central e na história de sua ocupação luso-brasileira,
+apontando ainda semelhanças e diferenças entre elas quanto à composição
+arquitetônica, aos sistemas construtivos, e ao estado de conservação.
+Para tanto, derivam-se os seguintes objetivos específicos:
 
-- Realizar o levantamento arquitetônico de cada edificação ou conjunto
-  edilício, reportando os dados coletados num sistema HBIM semântico;
+- Realizar o levantamento arquitetônico da edificação em seu conjunto
+  paisagístico, reportando os dados coletados num sistema HBIM semântico;
 - Situar os sistemas construtivos analisados no âmbito da história da
   construção luso-brasileira;
-- Interpretar a inserção das casas na rede territorial do planalto
+- Interpretar a inserção da casa na rede territorial do planalto
   Central, compreendendo seu sistema histórico de propriedade fundiária,
   os caminhos tradicionais e a relação com a topografia.
 
@@ -51,19 +51,15 @@ inventário arqueológico, oferecendo subsídios para interpretações
 historiográfica bem como para a conservação física das edificações e das
 ruínas.
 
-Este Plano de Trabalho visa a suprir a lacuna documental sobre algumas
-casas rurais do século XIX em fazendas e quilombos no Distrito Federal e
-entorno por meio do levantamento detalhado de suas dimensões físicas,
-sistemas construtivos, detalhes, patologias e estado de conservação, bem
-como da documentação arquivística existente --- escrita, oral e
-iconográfica. A documentação será consolidada segundo o paradigma do
-Historic Building Information Modeling (HBIM) e dela será derivada uma
-interpretação preliminar quanto às relações das casas estudadas entre si
-e com o território rural. O escopo de casas incluídas no levantamento
-será determinado em consulta com a Secretaria de Estado de Cultura do
-Distrito Federal, o Arquivo Público do Distrito Federal, e o Instituto
-do Patrimônio Histórico e Artístico Nacional, antes da submissão do
-Plano de Trabalho.
+Este Plano de Trabalho visa a suprir a lacuna documental sobre uma das
+mais importantes casas rurais do século XIX no
+Distrito Federal por meio do levantamento detalhado de suas
+dimensões físicas, sistemas construtivos, detalhes, patologias e estado
+de conservação, bem como da documentação arquivística existente ---
+escrita, oral e iconográfica. A documentação será consolidada segundo o
+paradigma do Historic Building Information Modeling (HBIM) e dela será
+derivada uma interpretação preliminar quanto às relações da casa
+estudada com outras construções análogas e com o território rural. 
 
 Viabilidade, recursos e metodologia
 ===================================

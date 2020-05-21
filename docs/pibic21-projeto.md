@@ -143,6 +143,9 @@ date: 2020-05-04
 <div id="ref-conto:2017certificacoes12">
 <p>CONTO, V. DE; OLIVEIRA, M. L. DE; RUPPENTHAL, J. E. Certificações ambientais: contribuição à sustentabilidade na construção civil no Brasil. <strong>Revista Gestão da Produção Operações e Sistemas</strong>, v. 12, n. 4, 4, p. 100, 1 Nov. 2017. </p>
 </div>
+<div id="ref-conzen:2004thinking">
+<p>CONZEN, M. R. G.; CONZEN, M. P. <strong>Thinking about urban form: Papers on urban morphology, 1932-1998</strong>. Oxford; New York: Peter Lang, 2004. </p>
+</div>
 <div id="ref-correia:2014vernacular">
 <p>CORREIA, M. (ED.). <strong>Vernacular Heritage and Earthen Architecture: Contributions for sustainable development ; proceedings of CIAV 2013, 7th ATP, Versus, Vila Nova de Cerveira, Portugal, 16 - 20 October 2013</strong>. Leiden: CRC Press, 2014. </p>
 </div>
@@ -151,6 +154,9 @@ date: 2020-05-04
 </div>
 <div id="ref-correia:2004construcao">
 <p>CORREIA, T. DE B. <strong>A Construção Do Habitat Moderno No Brasil, 1870–1950</strong>. São Carlos: RiMa, 2004. </p>
+</div>
+<div id="ref-cortado:2018artefacts15">
+<p>CORTADO, T. Artefacts Urbanistiques En Périphérie de Rio de Janeiro: La Technologie Du Lotissement. <strong>Vibrant: Virtual Brazilian Anthropology</strong>, v. 15, n. 1, 22 Out. 2018. </p>
 </div>
 <div id="ref-cunhaoliveira:2012ferramenta7">
 <p>CUNHA OLIVEIRA, J. A.; SPOSTO, R. M.; BLUMENSCHEIN, R. N. Ferramenta para avaliação da sustentabilidade ambiental na fase de execução de edifícios no Distrito Federal. <strong>Gepros: Gestão da Produção, Operações e Sistemas; Bauru</strong>, v. 7, n. 2, 2012. </p>
@@ -206,17 +212,29 @@ date: 2020-05-04
 <div id="ref-gil-martin:2012production1">
 <p>GIL-MARTÍN, L. M. et al. Toward the Production of Future Heritage Structures: Considering Durability in Building Performance and Sustainability – A Philosophical and Historical Overview. <strong>International Journal of Sustainable Built Environment</strong>, v. 1, n. 2, p. 269–273, 1 Dez. 2012. </p>
 </div>
+<div id="ref-gurgel:2017aliando6">
+<p>GURGEL, A. P. C. Aliando Teoria e Prática: Um Exame Da Metodologia de «Análise Arquitetônica» Aplicada Em Disciplinas de Teoria e História de Arquitetura. <strong>Revista de Arquitetura IMED</strong>, v. 6, n. 1, p. 106, 2 Ago. 2017. </p>
+</div>
 <div id="ref-guy:2001reinterpreting54">
 <p>GUY, S.; FARMER, G. Reinterpreting Sustainable Architecture: The Place of Technology. <strong>Journal of Architectural Education (1984-)</strong>, v. 54, n. 3, p. 140–148, 2001. </p>
 </div>
+<div id="ref-hardy:2008venice">
+<p>HARDY, M. (ED.). <strong>The Venice Charter Revisited: Modernism, Conservation and Tradition in the 21st Century</strong>. Newcastle upon Tyne, UK: Cambridge Scholars, 2008. </p>
+</div>
 <div id="ref-heintzelman:2013historic46">
 <p>HEINTZELMAN, M. D.; ALTIERI, J. A. Historic Preservation: Preserving Value? <strong>The Journal of Real Estate Finance and Economics</strong>, v. 46, n. 3, p. 543–563, Abr. 2013. </p>
+</div>
+<div id="ref-hersperger:2006spatial77">
+<p>HERSPERGER, A. M. Spatial adjacencies and interactions: Neighborhood mosaics for landscape ecological planning. <strong>Landscape and Urban Planning</strong>, v. 77, n. 3, p. 227–239, 30 Ago. 2006. </p>
 </div>
 <div id="ref-hichri:2013reviewXL-5/W1">
 <p>HICHRI, N. et al. Review of the «as-built BIM» approaches. <strong>ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</strong>, v. XL-5/W1, p. 107–112, 13 Fev. 2013. </p>
 </div>
 <div id="ref-hilber:2019energy114">
 <p>HILBER, C. A. L.; PALMER, C.; PINCHBECK, E. W. The energy costs of historic preservation. <strong>Journal of Urban Economics</strong>, v. 114, p. 103197, Nov. 2019. </p>
+</div>
+<div id="ref-holanda:2002espaco">
+<p>HOLANDA, F. DE. <strong>O Espaço de Exceção</strong>. Brasília: Editora UnB, 2002. </p>
 </div>
 <div id="ref-hu:2017balance140">
 <p>HU, M. Balance between energy conservation and environmental impact: Life-cycle energy analysis and life-cycle environmental impact analysis. <strong>Energy and Buildings</strong>, v. 140, p. 131–139, Abr. 2017. </p>
@@ -286,6 +304,9 @@ date: 2020-05-04
 </div>
 <div id="ref-megahed:2015theoretical9">
 <p>MEGAHED, N. A. Towards a theoretical framework for HBIM approach in historic preservation and management. <strong>ArchNet-IJAR : International Journal of Architectural Research</strong>, v. 9, n. 3, p. 130–147, Nov. 2015. </p>
+</div>
+<div id="ref-mehaffy:2007sustainable">
+<p>MEHAFFY, M. W. <strong>Sustainable Building and Traditional Morphology: Implications of Evolving Research in Biophilia and Evidence-Based Design</strong>. Oswego, Ore.: Sustasis Foundation, 2007. </p>
 </div>
 <div id="ref-mignot:1983larchitecture">
 <p>MIGNOT, C. <strong>L’architecture au XIX<sup>e</sup> siècle</strong>. Paris: Moniteur, 1983. </p>
@@ -422,6 +443,9 @@ date: 2020-05-04
 <div id="ref-skarmeas:2010habs">
 <p>SKARMEAS, G. C. From HABS to BIM: Personal Experiences, Thoughts, and Reflections. <strong>APT Bulletin</strong>, v. 41, n. 4, p. 47–53, 1 Jan. 2010. </p>
 </div>
+<div id="ref-smith:2012role">
+<p>SMITH, M. E. The Role of Ancient Cities in Research on Contemporary Urbanization. <strong>UGEC Viewpoints</strong>, n. 8, p. 6, Nov. 2012. </p>
+</div>
 <div id="ref-spallone:2016bim">
 <p>SPALLONE, R.; PIANO, A.; PIANO, S. BIM e Beni Architettonici: Analisi e Rappresentazione Multiscalare e Multidimensionale Di Un Insediamento Storico. Il Caso Studio Di Montemagno, Borgo Nuovo Piemontese. <strong>Disegnare Con</strong>, v. 16, n. 1, p. 13.1–13.13, 2016. </p>
 </div>
@@ -485,10 +509,11 @@ date: 2020-05-04
 </div>
 <!--Até 8000 caracteres-->
 <h3 id="metodologia">Metodologia</h3>
+<p>Os objetivos desta pesquisa implicam uma sucessão de etapas consistindo em documentar, classificar e analisar vestígios materiais e registros gráficos da construção vernácula brasileira de meados do século XVIII a meados do XX. O paradigma do Historic Building Information Modeling (HBIM) e os Sistemas de Informação Geográfica (SIG) formarão a espinha dorsal metodológica desta pesquisa. Mais do que ferramentas ou softwares específicos, o HBIM e o SIG implicam modos de olhar para a documentação coletada como um conjunto de dados e propriedades inteligíveis, para além de sua representação gráfica abstrata. Eles permitem padronizar a documentação de elementos construtivos e urbanísticos históricos, ao mesmo tempo representar a diversidade de soluções técnicas e formais, e submeter o conjunto de dados coletados a análises quantitativas.</p>
 <p>O inventário crítico de práticas construtivas históricas é um instrumental capaz de apontar uma variedade de direções nas quais pode se dar a expansão do “alvo” da sustentabilidade. À semelhança do objeto desta pesquisa — os contextos edilícios tradicionais cuja ordem emergente buscaremos evidenciar —, o procedimento de elaboração do inventário procede, à medida do tratamento das fontes, por adaptações recorrentes do seu modelo de classificação. Essas adaptações serão mediadas pelo instrumental analítico dos estudos morfológicos urbanísticos e arquitetônicos.</p>
 <p>Realizar uma pesquisa histórica desafia o paradigma indiciário das ciências sociais. Séries de dados quantitativos tornam-se tanto menos confiáveis, se não desaparecem por completo, quanto mais o objeto da pesquisa recua no tempo e se afasta dos grandes centros administrativos e econômicos. Mesmo registros descritivos, de natureza qualitativa, tornam-se esparsos quando o objeto em questão é o conjunto de processos, técnicas e produtos vernáculos, alheio à alta cultura letrada e à tecnocracia administrativa e acadêmica. O caráter disperso e fragmentário do acervo edificado histórico, vítima de repetidos ciclos de renovação urbana, dificulta ainda mais a aquisição de séries amostrais representativas, em que pesem os esforços de compilação documental realizados em alguns contextos <span class="citation" data-cites="bueno:2005tecido">(BUENO, <a href="#ref-bueno:2005tecido" role="doc-biblioref">2005</a>)</span>.</p>
 <p>A constituição do acervo documental necessário a qualquer análise será, portanto, nossa primeira e principal preocupação. Levantamentos arquitetônicos existentes se encontram dispersos em arquivos e, por vezes, em publicações variadas. O desafio metodológico consiste em sistematizar os dados extraídos desses levantamentos, de modo a torná-los comparáveis entre si. Essa sistematização compreende duas etapas interdependentes: a elaboração de ontologias classificatórias e a representação dos objetos da pesquisa por meio dessas ontologias. Assim, a leitura analítica das fontes documentais e dos levantamentos gráficos e cartográficos conduz à identificação de padrões espaciais e construtivos, que por sua vez empregaremos para organizar o material pesquisado.</p>
-<p>As três escalas que configuram nossa abordagem do objeto correspondem, também, a três categorias de ferramentas de apoio ao processamento do universo documental e gráfico. Na escala do parcelamento urbano, utilizaremos Sistemas de Informação Geográfica (SIG) para identificar padrões de dimensões lineares e de proporções de lotes recorrentes, associando-os às configurações arquitetônicas que eles comportam. O instrumental teórico da morfologia urbana, tal como concebido por <span class="citation" data-cites="conzen:2004thinking">(<span class="citeproc-not-found" data-reference-id="conzen:2004thinking"><strong>???</strong></span>)</span>, permite extrair desses padrões identificados na cartografia os processos de crescimento, consolidação e reforma do tecido das cidades.</p>
-<p>As tipologias espaciais nas edificações estudadas podem, igualmente, ser analisadas por meio do SIG para evidenciar relações dimensionais e posicionais entre ambientes. Tais relações são codificadas pelas ferramentas da sintaxe espacial <span class="citation" data-cites="holanda:2002espaco">(<span class="citeproc-not-found" data-reference-id="holanda:2002espaco"><strong>???</strong></span>)</span>, tendo especial pertinência na escala da edificação os grafos de profundidade e os mapas de visibilidade <span class="citation" data-cites="gurgel:2017aliando6">(<span class="citeproc-not-found" data-reference-id="gurgel:2017aliando6"><strong>???</strong></span>)</span>.</p>
+<p>As três escalas que configuram nossa abordagem do objeto correspondem, também, a três categorias de ferramentas de apoio ao processamento do universo documental e gráfico. Na escala do parcelamento urbano, utilizaremos Sistemas de Informação Geográfica (SIG) para identificar padrões de dimensões lineares e de proporções de lotes recorrentes, associando-os às configurações arquitetônicas que eles comportam. O instrumental teórico da morfologia urbana, tal como concebido por <span class="citation" data-cites="conzen:2004thinking">CONZEN; CONZEN (<a href="#ref-conzen:2004thinking" role="doc-biblioref">2004</a>)</span>, permite extrair desses padrões identificados na cartografia os processos de crescimento, consolidação e reforma do tecido das cidades.</p>
+<p>As tipologias espaciais nas edificações estudadas podem, igualmente, ser analisadas por meio do SIG para evidenciar relações dimensionais e posicionais entre ambientes. Tais relações são codificadas pelas ferramentas da sintaxe espacial <span class="citation" data-cites="holanda:2002espaco">(HOLANDA, <a href="#ref-holanda:2002espaco" role="doc-biblioref">2002</a>)</span>, tendo especial pertinência na escala da edificação os grafos de profundidade e os mapas de visibilidade <span class="citation" data-cites="gurgel:2017aliando6">(GURGEL, <a href="#ref-gurgel:2017aliando6" role="doc-biblioref">2017</a>)</span>.</p>
 <p>Os padrões construtivos, que evidenciam a persistência e a transformação de práticas profissionais e de modos de organização das cadeias produtivas vernáculas, podem ser documentados graficamente e por meio de modelos digitais tridimensionais. Para além da forma dos componentes da edificação, estes modelos devem conter metadados que identifiquem materiais empregados, procedimentos construtivos e, onde pertinente, sucessivas adaptações e alterações no tecido edificado. O estado da arte da pesquisa em construções históricas está atualmente voltado para o emprego de sistemas de Historic Building Information Modeling (HBIM). No HBIM, a representação tridimensional da edificação serve como suporte para a inclusão de informações semânticas, mas também para a modelagem e avaliação de cenários e prognósticos <span class="citation" data-cites="pocobelli:2018buildingXLII">(POCOBELLI et al., <a href="#ref-pocobelli:2018buildingXLII" role="doc-biblioref">2018</a>)</span>.</p>
 <p>Os resultados alcançados em cada escala de análise devem ser interpretados de modo sistêmico, atentando para as relações entre o substrato urbanístico portante, as configurações espaciais e edilícias realizáveis nos padrões de parcelamento do solo observados, e a materialização construtiva desses espaços arquitetônicos. As aproximações e divergências eventualmente verificadas no universo de objetos a serem documentados oferecerão os indícios para elaborar taxonomias de sistemas edilícios tradicionais.</p>

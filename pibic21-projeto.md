@@ -14,6 +14,8 @@ Planos de Trabalho
 
 - [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
   Ana Caroline dos Santos Paiva 
+- [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
+  Flávia Rosa de la Plata
 - [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
   Iriani Jéssica Pinto Ganga
 - [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):

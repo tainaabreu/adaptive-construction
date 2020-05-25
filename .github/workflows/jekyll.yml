@@ -16,12 +16,12 @@ jobs:
     - name: Prepare the web pages with Pandoc
       run: |
         # Package installation is only needed for local testing.
-        echo "Updating repositories..."
-        apt-get -qq update
-        echo "Repositories updated."
-        echo "Installing necessary dependencies..."
-        apt-get -qq install make docker.io -y
-        echo "Dependencies installed."
+        #echo "Updating repositories..."
+        #apt-get -qq update
+        #echo "Repositories updated."
+        #echo "Installing necessary dependencies..."
+        #apt-get -qq install make docker.io -y
+        #echo "Dependencies installed."
         # The actual build begins here.
         make build
     - name: Checkout gh-pages

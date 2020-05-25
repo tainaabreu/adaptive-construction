@@ -24,7 +24,6 @@ jobs:
         #echo "Dependencies installed."
         # The actual build begins here.
         cd work
-        make csl
         mkdir tmp
         make build
     - name: Checkout gh-pages

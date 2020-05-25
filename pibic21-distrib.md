@@ -5,6 +5,7 @@ date     : 2020-04-13
 lang     : pt
 nocite   : "@*"
 bibliography: 'pibic21-distrib.bib'
+csl      : 'https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl'
 ---
 
 Objetivos, problema e justificativa

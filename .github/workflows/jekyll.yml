@@ -2,8 +2,9 @@ name: Jekyll site CI
 
 on:
   push:
-    branches:
-      - master
+    branches: [ master, dev ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
@@ -13,7 +14,7 @@ jobs:
     - name: Use pandoc to prepare the web pages
       run: |
         docker run -v ${{ github.workspace }}:/data \
-        --entrypoint "${{ github.workspace }}/make build" \
+        --entrypoint "make build" \
         pandoc/core:2.9.2
     - name: Test Jekyll site build
       run: |

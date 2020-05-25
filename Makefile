@@ -12,17 +12,17 @@ vpath default.% lib/pandoc-templates
 # Jekyll {{{2
 # ------
 SRC           = $(wildcard *.md)
-DOCS         := $(patsubst %.md,docs/%.md, $(SRC))
+DOCS         := $(patsubst %.md,tmp/%.md, $(SRC))
 
 serve : 
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'
 	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated'
 
 build : $(DOCS)
-	cp -f _config.yml docs/
 
-docs/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll biblio.bib
-	source .venv/bin/activate; pandoc -o $@ -d spec/jekyll.yaml $<
+tmp/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll biblio.bib
+	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
+		pandoc/core:2.9.2.1 -o $@ -d spec/jekyll.yaml $<
 
 # Install and cleanup {{{1
 # ===================
@@ -82,4 +82,4 @@ license :
 clean :
 	-rm -r _book/* _site/*
 
-# vim: set foldmethod=marker :
+# vim: set foldmethod=marker shiftwidth=2 tabstop=2 :

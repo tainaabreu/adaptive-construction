@@ -60,3 +60,11 @@ readme_index:
   with_frontmatter: true
 
 exclude:
+  - .git
+  - .github
+  - .install
+  - .vendor
+  - .venv
+  - lib
+  - spec
+  - tmp

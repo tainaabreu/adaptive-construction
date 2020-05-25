@@ -4,27 +4,39 @@ on:
   push:
     branches: [ master, dev ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, dev ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Use pandoc to prepare the web pages
+      with:
+        path: 'work'
+    - name: Prepare the web pages with Pandoc
       run: |
-        docker run -v ${{ github.workspace }}:/data \
-        --entrypoint "make build" \
-        pandoc/core:2.9.2
-    - name: Test Jekyll site build
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
-    - name: Checkout gh-pages branch
+        # Package installation is only needed for local testing.
+        echo "Updating repositories..."
+        apt-get -qq update
+        echo "Repositories updated."
+        echo "Installing necessary dependencies..."
+        apt-get -qq install make docker.io -y
+        echo "Dependencies installed."
+        # The actual build begins here.
+        make build
+    - name: Checkout gh-pages
       uses: actions/checkout@v2
       with:
-        ref: 'gh-pages'
+        ref : 'gh-pages'
         path: 'gh-pages'
-    - name: Commit site to gh-pages branch
+    - name: Copy site to gh-pages branch
       run: |
+        cp -f  ${{ github.workspace }}/work/_config.yml  ${{ github.workspace }}/gh-pages/_config.yml
+        cp -f  ${{ github.workspace }}/work/Gemfile      ${{ github.workspace }}/gh-pages/Gemfile
+        cp -f  ${{ github.workspace }}/work/Gemfile.lock ${{ github.workspace }}/gh-pages/Gemfile.lock
+        cp -rf ${{ github.workspace }}/work/assets       ${{ github.workspace }}/gh-pages/assets
+        cp -rf ${{ github.workspace }}/work/tmp/*        ${{ github.workspace }}/gh-pages/
+    - name: Test Jekyll site build
+      uses: docker://jekyll/jekyll:3.8.5
+      with:
+        args: "jekyll build"

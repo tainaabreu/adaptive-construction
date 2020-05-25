@@ -2,7 +2,6 @@ to        : gfm+smart
 standalone: true
 template  : 'lib/templates/default.jekyll'
 filters:
-- pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings        : true
 file-scope              : true

@@ -277,6 +277,7 @@ TSWLatexianTemp*
 # LibreOffice locks
 .~lock.*#
 *.tmp
+tmp/
 
 # Word temporary
 ~$*.doc*

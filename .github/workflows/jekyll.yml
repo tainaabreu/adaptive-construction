@@ -25,7 +25,7 @@ jobs:
         # The actual build begins here.
         cd work
         ls tmp | mkdir tmp
-        ls lib/styles
+        ls -la lib/styles
         make build
     - name: Checkout gh-pages
       uses: actions/checkout@v2

@@ -1,9 +1,0 @@
-[submodule "docs/reveal.js"]
-	path = docs/reveal.js
-	url = https://github.com/hakimel/reveal.js.git
-[submodule "lib/styles"]
-	path = lib/styles
-	url = https://github.com/citation-style-language/styles.git
-[submodule "lib/pandoc-templates"]
-	path = lib/pandoc-templates
-	url = https://github.com/jgm/pandoc-templates.git

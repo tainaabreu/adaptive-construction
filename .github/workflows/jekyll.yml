@@ -24,7 +24,7 @@ jobs:
         #echo "Dependencies installed."
         # The actual build begins here.
         cd work
-        git submodule add https://github.com/citation-style-language/styles lib/styles
+        make csl
         mkdir tmp
         make build
     - name: Checkout gh-pages

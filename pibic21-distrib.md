@@ -2,7 +2,7 @@
 title    : "Distribuições da morada eclética em Goiás"
 author   : "Flávia Rosa de la Plata"
 date     : 2020-04-13
-lang     : pt
+lang     : pt-BR
 nocite   : "@*"
 bibliography: 'pibic21-distrib.bib'
 ---
@@ -95,7 +95,7 @@ empregado será o QGIS, por se tratar de *software* livre, já amplamente
 utilizado em atividades acadêmicas e de pesquisa na FAU--UnB, e
 disponível nos mais difundidos sistemas operacionais --- Windows, Mac e
 Linux. O *plugin* DepthmapX permite realizar análises de integração
-espacial e visibilidade diretamente no QGIS [@gil:2015space].
+espacial e visibilidade diretamente no QGIS [@gil:2015space10].
 
 Esta pesquisa utilizará, como fonte para as plantas de casas, a
 documentação arquitetônica já recolhida em arquivos e na bibliografia

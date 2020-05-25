@@ -23,6 +23,8 @@ jobs:
         #apt-get -qq install make docker.io -y
         #echo "Dependencies installed."
         # The actual build begins here.
+        pwd
+        ls -lA
         make build
     - name: Checkout gh-pages
       uses: actions/checkout@v2

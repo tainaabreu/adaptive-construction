@@ -24,8 +24,7 @@ jobs:
         #echo "Dependencies installed."
         # The actual build begins here.
         cd work
-        ls tmp | mkdir tmp
-        ls -la lib/styles
+        mkdir tmp
         make build
     - name: Checkout gh-pages
       uses: actions/checkout@v2

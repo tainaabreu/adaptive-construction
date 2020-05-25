@@ -15,14 +15,14 @@ SRC           = $(wildcard *.md)
 DOCS         := $(patsubst %.md,docs/%.md, $(SRC))
 
 serve : 
+	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'
 	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated'
 
 build : $(DOCS)
 	cp -f _config.yml docs/
-	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'
 
 docs/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll biblio.bib
-	pandoc -o $@ -d spec/jekyll.yaml $<
+	source .venv/bin/activate; pandoc -o $@ -d spec/jekyll.yaml $<
 
 # Install and cleanup {{{1
 # ===================

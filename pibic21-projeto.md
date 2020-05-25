@@ -3,7 +3,7 @@ title : Projeto de pesquisa
 date  : 2020-05-04
 lang  : pt
 csl   : lib/styles/associacao-brasileira-de-normas-tecnicas.csl
-bibliography: projeto.bib
+bibliography: 'projeto.bib'
 suppress-bibliography: false
 nocite: "@*"
 ---
@@ -14,6 +14,8 @@ Planos de Trabalho
 
 - [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
   Ana Caroline dos Santos Paiva 
+- [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
+  Flávia Rosa de la Plata
 - [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
   Iriani Jéssica Pinto Ganga
 - [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
@@ -72,7 +74,7 @@ designados como tradicionais, para então formular um sistema de
 indicadores e métricas de resiliência.
 O conceito de resiliência urbana tem sido implementado, via de regra,
 com respeito à recuperação após desastres naturais
-[@khazai:2018resilience31], ou ainda a aspectos socioeconômicos alheios
+[@meerow:2016defining147], ou ainda a aspectos socioeconômicos alheios
 aos processos produtivos do ambiente construído
 [@schlor:2018few-nexus210]. Propomos, outrossim, proceder por analogia,
 identificando a resiliência de tradições construtivas diante dos
@@ -202,7 +204,7 @@ acadêmica. O caráter disperso e fragmentário do acervo edificado
 histórico, vítima de repetidos ciclos de renovação urbana, dificulta
 ainda mais a aquisição de séries amostrais representativas, em que pesem
 os esforços de compilação documental realizados em alguns contextos
-[@bueno:2005tecido].
+[@bueno:2012sistema20].
 
 A constituição do acervo documental necessário a qualquer análise será,
 portanto, nossa primeira e principal preocupação. Levantamentos
@@ -223,10 +225,10 @@ universo documental e gráfico. Na escala do parcelamento urbano,
 utilizaremos Sistemas de Informação Geográfica (SIG) para identificar
 padrões de dimensões lineares e de proporções de lotes recorrentes,
 associando-os às configurações arquitetônicas que eles comportam. O
-instrumental teórico da morfologia urbana, tal como concebido por
-@conzen:2004thinking, permite extrair desses padrões identificados na
-cartografia os processos de crescimento, consolidação e reforma do
-tecido das cidades.
+instrumental teórico da morfologia urbana, tal como concebido na escola
+morfológica italiana [@cataldi:1989attualita], permite extrair desses
+padrões identificados na cartografia os processos de crescimento,
+consolidação e reforma do tecido das cidades.
 
 As tipologias espaciais nas edificações estudadas podem, igualmente, ser
 analisadas por meio do SIG para evidenciar relações dimensionais e

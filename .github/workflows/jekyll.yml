@@ -1,17 +1,29 @@
 name: Jekyll site CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - name: Clone branch
-      uses: actions/checkout@v2
-    - name: Build the site in the jekyll/builder container
+    - uses: actions/checkout@v2
+    - name: Use pandoc to prepare the web pages
+      run: |
+        docker run -v ${{ github.workspace }}:/data \
+        --entrypoint "${{ github.workspace }}/make build" \
+        pandoc/core:2.9.2
+    - name: Test Jekyll site build
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    - name: Checkout gh-pages branch
+      uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
+        path: 'gh-pages'
+    - name: Commit site to gh-pages branch
+      run: |

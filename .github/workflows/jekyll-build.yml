@@ -2,8 +2,6 @@ name: Website build
 
 on:
   push:
-    branches: [ master, dev ]
-  pull_request:
     branches: [ master ]
 
 jobs:

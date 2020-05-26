@@ -1,10 +1,8 @@
-name: Website build
+name: Website test
 
 on:
   push:
     branches: [ master, dev ]
-  pull_request:
-    branches: [ master ]
 
 jobs:
   build:
@@ -54,9 +52,3 @@ jobs:
         git commit -m "${{ env.commit_message }}" -a
         git pull
         git status
-    - name: Push changes to origin
-      uses: ad-m/github-push-action@master
-      with:
-        branch: 'gh-pages'
-        directory: 'gh-pages'
-        github_token: ${{ secrets.GITHUB_TOKEN }}

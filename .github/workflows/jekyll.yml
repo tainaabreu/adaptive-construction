@@ -51,3 +51,8 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}"
+    - name: Push changes to origin
+      uses: ad-m/github-push-action@0.5
+      with:
+        branch: 'gh-pages'
+        github_token: ${{ secrets.GITHUB_TOKEN }}

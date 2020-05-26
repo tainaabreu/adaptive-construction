@@ -9,8 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      commit_message: ${{ github.event.head_commit.message }}
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout active branch
+      uses: actions/checkout@v2
       with:
         path: 'work'
     - name: Prepare the web pages with Pandoc
@@ -26,7 +29,7 @@ jobs:
         cd work
         mkdir tmp
         make build
-    - name: Checkout gh-pages
+    - name: Checkout gh-pages branch
       uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
@@ -41,3 +44,10 @@ jobs:
       run: |
         docker run -v ${{ github.workspace }}/gh-pages:/srv/jekyll \
           jekyll/jekyll:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+    - name: Commit changes to gh-pages branch
+      run: |
+        cd ${{ github.workspace }}/gh-pages
+        git config --local user.email "runner@github.com"
+        git config --local user.name  "Automated build"
+        git add .
+        git commit -m "${{ env.commit_message }}"

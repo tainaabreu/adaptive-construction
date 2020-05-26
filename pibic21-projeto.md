@@ -67,9 +67,9 @@ designados como tradicionais, para então formular um sistema de
 indicadores e métricas de resiliência.
 O conceito de resiliência urbana tem sido implementado, via de regra,
 com respeito à recuperação após desastres naturais
-(MEEROW; NEWELL; STULTS, 2016), ou ainda a aspectos socioeconômicos alheios
+(MEEROW; NEWELL; STULTS, [2016](#ref-meerow:2016defining147)), ou ainda a aspectos socioeconômicos alheios
 aos processos produtivos do ambiente construído
-(SCHLÖR; VENGHAUS; HAKE, 2018). Propomos, outrossim, proceder por analogia,
+(SCHLÖR; VENGHAUS; HAKE, [2018](#ref-schlor:2018few-nexus210)). Propomos, outrossim, proceder por analogia,
 identificando a resiliência de tradições construtivas diante dos
 cambiantes cenários cultural, político e tecnológico. Para tanto,
 estipulamos os objetivos a seguir.
@@ -121,7 +121,7 @@ Outrossim, a atual concepção de sustentabilidade como um "alvo em
 movimento" --- passível não apenas de aprimoramento nos resultados
 alcançados, mas também de expansão e aprofundamento nas próprias
 expectativas estabelecidas pelos indicadores de desempenho
-(BLUMENSCHEIN; TOMÉ, 2011) --- sugere atenção a todas as cadeias de
+(BLUMENSCHEIN; TOMÉ, [2011](#ref-blumenschein:2011inovacao2)) --- sugere atenção a todas as cadeias de
 processos produtivos no ambiente edificado. O deslocamento do "alvo" da
 sustentabilidade urbana, entendido sob todos os seus aspectos ---
 ambiental, social, cultural e econômico --- adquire, assim, a forma de
@@ -193,7 +193,7 @@ acadêmica. O caráter disperso e fragmentário do acervo edificado
 histórico, vítima de repetidos ciclos de renovação urbana, dificulta
 ainda mais a aquisição de séries amostrais representativas, em que pesem
 os esforços de compilação documental realizados em alguns contextos
-(BUENO, 2012).
+(BUENO, [2012](#ref-bueno:2012sistema20)).
 
 A constituição do acervo documental necessário a qualquer análise será,
 portanto, nossa primeira e principal preocupação. Levantamentos
@@ -215,16 +215,16 @@ utilizaremos Sistemas de Informação Geográfica (SIG) para identificar
 padrões de dimensões lineares e de proporções de lotes recorrentes,
 associando-os às configurações arquitetônicas que eles comportam. O
 instrumental teórico da morfologia urbana, tal como concebido na escola
-morfológica italiana (CATALDI, 1989), permite extrair desses
+morfológica italiana (CATALDI, [1989](#ref-cataldi:1989attualita)), permite extrair desses
 padrões identificados na cartografia os processos de crescimento,
 consolidação e reforma do tecido das cidades.
 
 As tipologias espaciais nas edificações estudadas podem, igualmente, ser
 analisadas por meio do SIG para evidenciar relações dimensionais e
 posicionais entre ambientes. Tais relações são codificadas pelas
-ferramentas da sintaxe espacial (HOLANDA, 2002), tendo especial
+ferramentas da sintaxe espacial (HOLANDA, [2002](#ref-holanda:2002espaco)), tendo especial
 pertinência na escala da edificação os grafos de profundidade e os mapas
-de visibilidade (GURGEL, 2017).
+de visibilidade (GURGEL, [2017](#ref-gurgel:2017aliando6)).
 
 Os padrões construtivos, que evidenciam a persistência e a transformação
 de práticas profissionais e de modos de organização das cadeias
@@ -237,7 +237,7 @@ da pesquisa em construções históricas está atualmente voltado para o
 emprego de sistemas de Historic Building Information Modeling (HBIM). No
 HBIM, a representação tridimensional da edificação serve como suporte
 para a inclusão de informações semânticas, mas também para a modelagem e
-avaliação de cenários e prognósticos (POCOBELLI et al., 2018).
+avaliação de cenários e prognósticos (POCOBELLI et al., [2018](#ref-pocobelli:2018buildingXLII)).
 
 Os resultados alcançados em cada escala de análise devem ser
 interpretados de modo sistêmico, atentando para as relações entre o

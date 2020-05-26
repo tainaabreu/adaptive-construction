@@ -3,7 +3,7 @@ layout: page
 title : Adaptive strategies in traditional construction
 ---
 
-![](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website%20build/badge.svg)
+![Website build](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website%20build/badge.svg)
 
 Adaptive strategies in traditional construction
 ===============================================

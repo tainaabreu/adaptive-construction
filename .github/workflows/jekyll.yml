@@ -51,10 +51,6 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}"
-    - name: Make sure there are no conflicts
-      run: |
-        cd ${{ github.workspace }}/gh-pages
-        git pull
     - name: Push changes to origin
       uses: ad-m/github-push-action@master
       with:

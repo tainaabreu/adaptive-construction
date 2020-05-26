@@ -38,7 +38,7 @@ jobs:
       run: |
         rsync -mrtu \
           ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/ \
-          --delete --exclude spec --exclude lib
+          --delete --exclude spec --exclude lib --exclude *.bib
         mv -f ${{ github.workspace }}/gh-pages/tmp/* ${{ github.workspace }}/gh-pages/
     - name: Test Jekyll site build
       run: |

@@ -1,11 +1,14 @@
 ---
-title    : "Arqueologia da casa da fazenda Velha, Distrito Federal"
-author   : "Tainá Abreu"
-date     : 2020-04-13
+title: "Arqueologia da casa da fazenda Velha, Distrito Federal"
+date: 2020-04-13
+author:
+- name: 
+  affiliation: ""
 ---
 
-Objetivos, problema e justificativa
-===================================
+# Arqueologia da casa da fazenda Velha, Distrito Federal
+
+## Objetivos, problema e justificativa
 
 Este plano de trabalho busca resgatar o conhecimento construtivo e
 histórico sobre a fazenda Velha, uma morada rural do século XIX situada
@@ -24,15 +27,15 @@ seus sistemas construtivos, tal como originalmente concebidos tanto
 quanto contemplando as sucessivas intervenções sofridas pela casa. Dessa
 proposta, decorrem os seguintes objetivos específicos:
 
-- Testar a viabilidade de realização de levantamento de um conjunto
-  arquitetônico por meio de equipamentos fotográficos simples e de
-  software livre, com geração e tratamento de nuvem de pontos;
-- Classificar os sistemas e componentes construtivos empregados na
-  fazenda Velha, buscando averiguar as sucessivas etapas de construção e
-  restauro do conjunto;
-- Interpretar a inserção da casa na rede territorial do planalto
-  Central, compreendendo seu sistema histórico de propriedade fundiária,
-  os caminhos tradicionais e a relação com a topografia.
+  - Testar a viabilidade de realização de levantamento de um conjunto
+    arquitetônico por meio de equipamentos fotográficos simples e de
+    software livre, com geração e tratamento de nuvem de pontos;
+  - Classificar os sistemas e componentes construtivos empregados na
+    fazenda Velha, buscando averiguar as sucessivas etapas de construção e
+    restauro do conjunto;
+  - Interpretar a inserção da casa na rede territorial do planalto
+    Central, compreendendo seu sistema histórico de propriedade fundiária,
+    os caminhos tradicionais e a relação com a topografia.
 
 Longe de ser o "vazio" pretendido por Juscelino Kubitschek e Lucio Costa,
 o território em torno do sítio onde se construiu Brasília é ordenado por
@@ -61,8 +64,7 @@ documentação fotogramétrica usando equipamentos simples e software
 livre, combinando os paradigmas do Historic Building Information
 Modeling (HBIM) e dos Sistemas de Informação Geográfica (SIG).
 
-Viabilidade, recursos e metodologia
-===================================
+## Viabilidade, recursos e metodologia
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -75,9 +77,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 
 Texto com 4000 caracteres.
 
-
-Bibliografia
-============
+## Bibliografia
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -85,15 +85,10 @@ do(a) Orientador(a)
 
 Texto com no máximo 2000 caracteres.
 
-
-Competências e habilidades
-==========================
+## Competências e habilidades
 
 Texto com no máximo 1000 caracteres.
 
-
-Cronograma
-==========
+## Cronograma
 
 Mês a mês
-

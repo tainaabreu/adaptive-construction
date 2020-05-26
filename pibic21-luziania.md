@@ -1,11 +1,14 @@
 ---
-title    : "Arqueologia da morada suburbana na rua do Rosário, Luziânia"
-author   : "Mariana Azevedo Silva"
-date     : 2020-04-13
+title: "Arqueologia da morada suburbana na rua do Rosário, Luziânia"
+date: 2020-04-13
+author:
+- name: 
+  affiliation: ""
 ---
 
-Objetivos, problema e justificativa
-===================================
+# Arqueologia da morada suburbana na rua do Rosário, Luziânia
+
+## Objetivos, problema e justificativa
 
 O objeto deste plano de trabalho é compilar uma documentação
 arquitetônica descritiva de algumas moradas suburbanas tradicionais
@@ -18,13 +21,13 @@ da sua importância como encruzilhada comercial e agroexportadora (meados
 do século XX). Para tanto, derivam-se os seguintes objetivos
 específicos:
 
-- Realizar o levantamento arquitetônico de cada edificação ou conjunto
-  edilício, reportando os dados coletados num sistema HBIM semântico;
-- Situar os sistemas construtivos analisados no âmbito da história da
-  construção luso-brasileira;
-- Interpretar a inserção das casas no vetor de expansão noroeste de
-  Luziânia, com base nas fontes documentais coletadas e numa leitura da
-  morfologia urbana da rua do Rosário.
+  - Realizar o levantamento arquitetônico de cada edificação ou conjunto
+    edilício, reportando os dados coletados num sistema HBIM semântico;
+  - Situar os sistemas construtivos analisados no âmbito da história da
+    construção luso-brasileira;
+  - Interpretar a inserção das casas no vetor de expansão noroeste de
+    Luziânia, com base nas fontes documentais coletadas e numa leitura da
+    morfologia urbana da rua do Rosário.
 
 O antigo arraial e vila de Santa Luzia, atual cidade de Luziânia, foi
 fundado como sítio minerador pelo bandeirante Bartolomeu Bueno da Silva
@@ -71,8 +74,7 @@ Information Modeling (HBIM) e dela será derivada uma interpretação
 preliminar quanto às relações das casas estudadas entre si e com a
 cidade.
 
-Viabilidade, recursos e metodologia
-===================================
+## Viabilidade, recursos e metodologia
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -85,9 +87,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 
 Texto com 4000 caracteres.
 
-
-Bibliografia
-============
+## Bibliografia
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -95,16 +95,10 @@ do(a) Orientador(a)
 
 Texto com no máximo 2000 caracteres.
 
-
-Competências e habilidades
-==========================
+## Competências e habilidades
 
 Texto com no máximo 1000 caracteres.
 
-
-Cronograma
-==========
+## Cronograma
 
 Mês a mês
-
-

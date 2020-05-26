@@ -1,11 +1,14 @@
 ---
-title    : "Arqueologia da casa da fazenda Gama"
-author   : "Ana Caroline dos Santos Paiva"
-date     : 2020-04-13
+title: "Arqueologia da casa da fazenda Gama"
+date: 2020-04-13
+author:
+- name: 
+  affiliation: ""
 ---
 
-Objetivos, problema e justificativa
-===================================
+# Arqueologia da casa da fazenda Gama
+
+## Objetivos, problema e justificativa
 
 Este plano de trabalho consiste na elaboração de um inventário
 documental da casa da fazenda Gama, uma residência rural do século XIX
@@ -17,13 +20,13 @@ apontando ainda semelhanças e diferenças entre elas quanto à composição
 arquitetônica, aos sistemas construtivos, e ao estado de conservação.
 Para tanto, derivam-se os seguintes objetivos específicos:
 
-- Realizar o levantamento arquitetônico da edificação em seu conjunto
-  paisagístico, reportando os dados coletados num sistema HBIM semântico;
-- Situar os sistemas construtivos analisados no âmbito da história da
-  construção luso-brasileira;
-- Interpretar a inserção da casa na rede territorial do planalto
-  Central, compreendendo seu sistema histórico de propriedade fundiária,
-  os caminhos tradicionais e a relação com a topografia.
+  - Realizar o levantamento arquitetônico da edificação em seu conjunto
+    paisagístico, reportando os dados coletados num sistema HBIM semântico;
+  - Situar os sistemas construtivos analisados no âmbito da história da
+    construção luso-brasileira;
+  - Interpretar a inserção da casa na rede territorial do planalto
+    Central, compreendendo seu sistema histórico de propriedade fundiária,
+    os caminhos tradicionais e a relação com a topografia.
 
 Longe de ser o "vazio" pretendido por Juscelino Kubitschek e Lucio Costa,
 o território em torno do sítio onde se construiu Brasília é ordenado por
@@ -35,7 +38,7 @@ entorno. Diversas sedes de fazenda remanescentes da segunda metade do
 século XIX, senão antes, oferecem um testemunho desse processo, com
 destaque para as casas da fazenda Gama, próxima ao Catetinho, da fazenda
 Velha, na região do Itapuã--Rajadinha, e da fazenda Vera Cruz, em
-Planaltina, além de ruínas identificadas por Vieira Jr. no parque
+Planaltina, além de ruínas identificadas por Vieira Jr. no parque
 nacional de Brasília. É notável, ainda, a presença do quilombo do
 Mesquita, no município limítrofe da Cidade Ocidental, dotado de um
 pequeno e ameaçado acervo edilício vernáculo.
@@ -59,10 +62,9 @@ de conservação, bem como da documentação arquivística existente ---
 escrita, oral e iconográfica. A documentação será consolidada segundo o
 paradigma do Historic Building Information Modeling (HBIM) e dela será
 derivada uma interpretação preliminar quanto às relações da casa
-estudada com outras construções análogas e com o território rural. 
+estudada com outras construções análogas e com o território rural.
 
-Viabilidade, recursos e metodologia
-===================================
+## Viabilidade, recursos e metodologia
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -75,9 +77,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 
 Texto com 4000 caracteres.
 
-
-Bibliografia
-============
+## Bibliografia
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -85,15 +85,10 @@ do(a) Orientador(a)
 
 Texto com no máximo 2000 caracteres.
 
-
-Competências e habilidades
-==========================
+## Competências e habilidades
 
 Texto com no máximo 1000 caracteres.
 
-
-Cronograma
-==========
+## Cronograma
 
 Mês a mês
-

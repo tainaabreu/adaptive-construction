@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master, dev ]
   pull_request:
-    branches: [ master, dev ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -49,6 +49,7 @@ jobs:
         cd ${{ github.workspace }}/gh-pages
         git config --local user.email "runner@github.com"
         git config --local user.name  "Automated build"
+        git config --local advice.addIgnoredFile false
         git add *
         git commit -m "${{ env.commit_message }}" -a
     - name: Push changes to origin

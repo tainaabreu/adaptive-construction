@@ -2,9 +2,10 @@
 title    : "Distribuições da morada eclética em Goiás"
 author   : "Flávia Rosa de la Plata"
 date     : 2020-04-13
-lang     : pt-BR
+lang     : pt
 nocite   : "@*"
 bibliography: 'pibic21-distrib.bib'
+csl      : 'https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl'
 ---
 
 Objetivos, problema e justificativa

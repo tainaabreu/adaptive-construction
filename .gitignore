@@ -22,7 +22,6 @@ _site/
 .jekyll-metadata
 .vendor/
 .bundle/
-Gemfile.lock
 
 # eBook build output {{{1
 *.epub
@@ -277,6 +276,7 @@ TSWLatexianTemp*
 # LibreOffice locks
 .~lock.*#
 *.tmp
+tmp/
 
 # Word temporary
 ~$*.doc*

@@ -38,7 +38,7 @@ jobs:
       run: |
         rsync -rmc ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/ \
           --delete --exclude spec --exclude lib --exclude *.bib
-        rsync -c ${{ github.workspace }}/gh-pages/tmp/* ${{ github.workspace }}/gh-pages/
+        rsync -c ${{ github.workspace }}/gh-pages/tmp/ ${{ github.workspace }}/gh-pages/
     - name: Test Jekyll site build
       run: |
         docker run -v ${{ github.workspace }}/gh-pages:/srv/jekyll \

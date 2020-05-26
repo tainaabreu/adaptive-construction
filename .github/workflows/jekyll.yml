@@ -41,5 +41,3 @@ jobs:
       run: |
         docker run -v ${{ github.workspace }}/gh-pages:/srv/jekyll \
           jekyll/jekyll:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
-      with:
-        args: "jekyll build"

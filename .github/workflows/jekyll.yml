@@ -49,8 +49,7 @@ jobs:
         cd ${{ github.workspace }}/gh-pages
         git config --local user.email "runner@github.com"
         git config --local user.name  "Automated build"
-        git config --local advice.addIgnoredFile false
-        git add *
+        git add .
         git commit -m "${{ env.commit_message }}" -a
     - name: Push changes to origin
       uses: ad-m/github-push-action@master

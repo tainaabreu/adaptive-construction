@@ -33,7 +33,7 @@ jobs:
         path: 'gh-pages'
     - name: Copy site to gh-pages branch
       run: |
-        rsync -r --delete --exclude spec --exclude lib \
+        rsync -a --delete --exclude spec --exclude lib \
           ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/
         rsync ${{ github.workspace }}/work/tmp/ ${{ github.workspace }}/gh-pages/
     - name: Test Jekyll site build

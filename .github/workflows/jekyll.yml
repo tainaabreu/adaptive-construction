@@ -40,4 +40,6 @@ jobs:
     - name: Test Jekyll site build
       uses: docker://jekyll/jekyll:3.8.5
       with:
+        volumes:
+          - "${{ github.workspace }}/gh-pages:/srv/jekyll"
         args: "jekyll build"

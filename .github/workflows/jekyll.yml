@@ -39,7 +39,7 @@ jobs:
         mv -f ${{ github.workspace }}/gh-pages/tmp/* ${{ github.workspace }}/gh-pages/
     - name: Test Jekyll site build
       uses: docker://jekyll/jekyll:3.8.5
+      volumes:
+        - "${{ github.workspace }}/gh-pages:/srv/jekyll"
       with:
-        volumes:
-          - "${{ github.workspace }}/gh-pages:/srv/jekyll"
         args: "jekyll build"

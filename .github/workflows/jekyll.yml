@@ -52,7 +52,7 @@ jobs:
         git add .
         git commit -m "${{ env.commit_message }}"
     - name: Push changes to origin
-      uses: ad-m/github-push-action@0.5
+      uses: ad-m/github-push-action@0.5.0
       with:
         branch: 'gh-pages'
         github_token: ${{ secrets.GITHUB_TOKEN }}

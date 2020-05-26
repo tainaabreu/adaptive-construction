@@ -33,7 +33,7 @@ jobs:
         path: 'gh-pages'
     - name: Copy site to gh-pages branch
       run: |
-        rsync -amu \
+        rsync -mrtu \
           ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/ \
           --delete --exclude spec --exclude lib
         mv -f ${{ github.workspace }}/gh-pages/tmp/* ${{ github.workspace }}/gh-pages/

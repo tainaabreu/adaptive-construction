@@ -38,8 +38,7 @@ jobs:
       run: |
         mv ${{ github.workspace }}/gh-pages/.git ${{ github.workspace }}/.git-bak
         rsync -rmcv ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/ \
-          --delete --exclude spec --exclude lib --exclude *.bib --exclude tmp \
-          --exclude .git
+          --exclude spec --exclude lib --exclude *.bib --exclude tmp --exclude .git
         rsync -cv ${{ github.workspace }}/work/tmp/ ${{ github.workspace }}/gh-pages/
         mv ${{ github.workspace }}/.git-bak ${{ github.workspace }}/gh-pages/.git
     - name: Test Jekyll site build

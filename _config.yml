@@ -15,7 +15,6 @@ url: "https://dmcpatrimonio.github.io"
 
 # Build settings
 remote_theme: p3palazzo/minima-scholar
-source: docs
 keep_files:
   - reveal.js
 header_pages:

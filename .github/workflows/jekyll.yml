@@ -34,9 +34,6 @@ jobs:
       with:
         ref : 'gh-pages'
         path: 'gh-pages'
-    - run: |
-        cd ${{ github.workspace }}/gh-pages
-        git pull
     - name: Copy site to gh-pages branch
       run: |
         rsync -mrtu \
@@ -54,6 +51,10 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}"
+    - run: |
+        cd ${{ github.workspace }}/gh-pages
+        git pull
+        git status
     - name: Push changes to origin
       uses: ad-m/github-push-action@master
       with:

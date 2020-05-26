@@ -26,7 +26,7 @@ jobs:
         #apt-get -qq install make docker.io -y
         #echo "Dependencies installed."
         # The actual build begins here.
-        cd work
+        cd ${{ github.workspace }}/work
         mkdir tmp
         make build
     - name: Checkout gh-pages branch
@@ -36,11 +36,10 @@ jobs:
         path: 'gh-pages'
     - name: Copy site to gh-pages branch
       run: |
-        mv ${{ github.workspace }}/gh-pages/.git ${{ github.workspace }}/.git-bak
         rsync -rmcv ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/ \
-          --exclude spec --exclude lib --exclude *.bib --exclude tmp --exclude .git
+          --exclude spec --exclude lib --exclude *.bib --exclude tmp --exclude .git \
+          --exclude *.md
         rsync -cv ${{ github.workspace }}/work/tmp/ ${{ github.workspace }}/gh-pages/
-        mv ${{ github.workspace }}/.git-bak ${{ github.workspace }}/gh-pages/.git
     - name: Test Jekyll site build
       run: |
         docker run -v ${{ github.workspace }}/gh-pages:/srv/jekyll \

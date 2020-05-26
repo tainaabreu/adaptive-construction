@@ -38,8 +38,8 @@ jobs:
           --delete --exclude spec --exclude lib
         mv -f ${{ github.workspace }}/gh-pages/tmp/* ${{ github.workspace }}/gh-pages/
     - name: Test Jekyll site build
-      uses: docker://jekyll/jekyll:3.8.5
-      volumes:
-        - "${{ github.workspace }}/gh-pages:/srv/jekyll"
+      run: |
+        docker run -v ${{ github.workspace }}/gh-pages:/srv/jekyll \
+          jekyll/jekyll:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
       with:
         args: "jekyll build"

@@ -51,6 +51,7 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}" -a
+        git pull
     - name: Push changes to origin
       uses: ad-m/github-push-action@master
       with:

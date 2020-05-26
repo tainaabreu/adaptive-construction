@@ -36,9 +36,12 @@ jobs:
         path: 'gh-pages'
     - name: Copy site to gh-pages branch
       run: |
+        mv ${{ github.workspace }}/gh-pages/.git ${{ github.workspace }}/gh-pages/.git-bak
         rsync -rmcv ${{ github.workspace }}/work/  ${{ github.workspace }}/gh-pages/ \
-          --delete --exclude spec --exclude lib --exclude *.bib
-        rsync -cv ${{ github.workspace }}/gh-pages/tmp/ ${{ github.workspace }}/gh-pages/
+          --delete --exclude spec --exclude lib --exclude *.bib --exclude tmp \
+          --exclude .git
+        rsync -cv ${{ github.workspace }}/work/tmp/ ${{ github.workspace }}/gh-pages/
+        mv ${{ github.workspace }}/gh-pages/.git-bak ${{ github.workspace }}/gh-pages/.git
     - name: Test Jekyll site build
       run: |
         docker run -v ${{ github.workspace }}/gh-pages:/srv/jekyll \

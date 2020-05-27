@@ -89,7 +89,11 @@ Texto com no máximo 2000 caracteres.
 Competências e habilidades
 ==========================
 
-Texto com no máximo 1000 caracteres.
+A aluna demostra ser comprometida as atividades acadêmicas podendo comprovar tal adjetivo por meio das menções e frequências nas matérias cursadas. Completou mais da metade da grade de história, sendo que nas matérias ARQUITERURA E URBANISMO DA SOCIEDADE INDUSTRIAL e ARQUITERURA E URBANISMO NO BRASIL COLÔNIA E IMPÉRIO obteve-se a menção SS, o que agrega muito a esta pesquisa pois é necessário ter uma base de conhecimento histórico cultural do Brasil. 
+Teve participação na escritura de um artigo na matéria ESTÉTICA E HISTÓRIA DA ARTE, onde a aluna mostra conhecimento para desenvolver textos acadêmicos.
+Possui conhecimento avançado em inglês, tem conhecimento básico em fotografia e teve contato com lugares históricos como Pirinópolis, Rio de Janeiro e São Paulo o que demonstra o conhecimento da junção entre a teoria e a prática.
+Apresenta habilidades nos Softwares Autocad, SketchUp, Photoshop, Illustrator, QGIS, Power Point, Excel e Word. Além de ser hábil em maquetes manuais.
+
 
 
 Cronograma

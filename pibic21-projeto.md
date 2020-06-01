@@ -12,7 +12,7 @@ Planos de Trabalho
 ==================
 
 
-- [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
+- [Arqueologia da casa da fazenda Gama](pibic21-gama.md):
   Ana Caroline dos Santos Paiva 
 - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
   Flávia Rosa de la Plata
@@ -20,6 +20,8 @@ Planos de Trabalho
   Iriani Jéssica Pinto Ganga
 - [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
   Mariana de Fátima Macedo Nunes de Azevedo
+- [Arqueologia da casa da fazenda Velha, Distrito Federal](pibic21-fazvelha.md):
+  Tainá Lourenço de Abreu
 
 Resiliência urbana: estratégias adaptativas na construção tradicional
 =====================================================================

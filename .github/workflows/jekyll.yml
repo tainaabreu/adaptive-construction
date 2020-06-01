@@ -58,7 +58,7 @@ jobs:
         ref : 'gh-pages'
     - name: Merge changes from active branch
       run: |
-        git merge ${{ github.event.head_commit.branch }}
+        git merge ${{ github.event.branch }}
     - name: Update pages
       uses: actions/download-artifact@v2
       with:

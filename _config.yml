@@ -45,11 +45,11 @@ plugins:
 
 # Other build parameters
 permalink: pretty
-markdown: kramdown
-kramdown:
-  auto_ids: true
-  header_offset: 1
-  transliterated_header_ids: true
+#markdown: kramdown
+#kramdown:
+  #auto_ids: true
+  #header_offset: 1
+  #transliterated_header_ids: true
 relative_links:
   enabled: true
   collections: true

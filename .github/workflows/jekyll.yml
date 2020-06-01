@@ -72,4 +72,4 @@ jobs:
         git add .
         git commit -m "${{ env.commit_message }}" -a
         git pull
-        git status
+        git push

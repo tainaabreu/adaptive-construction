@@ -56,14 +56,10 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
-    - name: Extract trigger branch name
-      shell: bash
-      run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-      id: extract_branch
-    - name: Merge changes from active branch
+    - name: Merge changes from master
       run: |
         git fetch --all
-        git merge ${{ steps.extract_branch.outputs.branch }}
+        git merge origin/master
     - name: Update pages
       uses: actions/download-artifact@v2
       with:

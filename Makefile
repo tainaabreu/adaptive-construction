@@ -11,7 +11,7 @@ vpath default.% lib/pandoc-templates
 
 # Jekyll {{{2
 # ------
-SRC           = $(wildcard *.md)
+SRC           = $(filter-out README.md,$(wildcard *.md))
 DOCS         := $(patsubst %.md,tmp/%.md, $(SRC))
 
 serve : 

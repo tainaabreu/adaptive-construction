@@ -1,6 +1,3 @@
----
----
-
 # Adaptive strategies for traditional construction in Portugal and Brazil
 
 ![Website](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website/badge.svg)
@@ -15,7 +12,7 @@
   - [Tradition Meets Technology: Using GIS to Identify Resilient Patterns](http://link.springer.com/10.1007/978-3-319-57937-5_126)
 - Building Strategies
   - [Modern Building, Traditional Architecture: The Early 20th Century](https://github.com/dmcpatrimonio/modconstr)
-  - [Appropriating Islamic Heritage: Culturalist and Hygienist Justifications](https://neoarabe.hcommons.org)
+  - [Appropriating Islamic Heritage in a Culturalist and Hygienist Context](https://neoarabe.hcommons.org)
 - Conclusion
 
 ## License

@@ -2,10 +2,10 @@
 
 ![Website](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website/badge.svg)
 
-## Table of Contents
+## Topics
 
 - Introduction
-  - [A Place for Architectural Traditions Today](https://dmcpatrimonio.github.io/arqtrad/6enanparq-intro/)
+  - [Architectural Traditions Today](https://dmcpatrimonio.github.io/arqtrad/6enanparq-intro/)
   - [Operative History and Typological Planning](https://github.com/dmcpatrimonio/tipo_ecletismo)
 - Urban Strategies
   - [Shared Urban Development Patterns in Portugal and Brazil](https://dmcpatrimonio.github.io/urb_saberes/pip19.html)
@@ -13,7 +13,6 @@
 - Building Strategies
   - [Modern Building, Traditional Architecture: The Early 20th Century](https://github.com/dmcpatrimonio/modconstr)
   - [Appropriating Islamic Heritage in a Culturalist and Hygienist Context](https://neoarabe.hcommons.org)
-- Conclusion
 
 ## License
 

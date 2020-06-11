@@ -1,8 +1,8 @@
-# Adaptive strategies for traditional construction in Portugal and Brazil
+# Adaptive Strategies in Traditional Building: Portugal and Brazil
 
 ![Website](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website/badge.svg)
 
-## Topics
+## Table of Contents
 
 - Theoretical Framework
   - [Architectural Traditions Today](https://dmcpatrimonio.github.io/arqtrad/6enanparq-intro/)
@@ -10,16 +10,19 @@
 - Urban Strategies
   - [Shared Urban Development Patterns in Portugal and Brazil](https://dmcpatrimonio.github.io/urb_saberes/pip19.html)
   - [Tradition Meets Technology: Using GIS to Identify Resilient Patterns](http://link.springer.com/10.1007/978-3-319-57937-5_126)
+  - Morphology of Small Scale Developments in Inner Fringe Belts
+  - Haussmannian Avenues: The End of Tradition?
 - Building Strategies
   - Flexibility and Transformations in Housing Types
-  - [Modern Building, Traditional Architecture: The Early 20th Century](https://github.com/dmcpatrimonio/modconstr)
+  - [Modern Building, Traditional Architecture: The Early 20<sup>th</sup> Century](https://github.com/dmcpatrimonio/modconstr)
   - [Hygienist Arguments for Orientalist Architecture](https://neoarabe.hcommons.org)
+  - BIM and Vernacular Building Types: Opportunities and Challenges
 
 ## License
 
-adaptive-construction (c) 2020 by Pedro P. Palazzo
+Adaptive Strategies in Traditional Building (c) 2020 by Pedro P. Palazzo
 
-adaptive-construction is licensed under a
+Adaptive Strategies for Traditional Building is licensed under a
 Creative Commons Attribution 3.0 Unported License.
 
 You should have received a copy of the license along with this

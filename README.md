@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
-Links point to related or ongoing research.
-
 - Theoretical Framework
   - [Architectural Traditions Today](https://dmcpatrimonio.github.io/arqtrad/6enanparq-intro/)
   - [Operative History and Typological Planning](https://github.com/dmcpatrimonio/tipo_ecletismo)

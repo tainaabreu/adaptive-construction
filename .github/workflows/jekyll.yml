@@ -34,7 +34,7 @@ jobs:
         ref : 'gh-pages'
         fetch_depth: 0
     - name: Merge changes from master
-      run: git merge origin/master
+      run: git merge master
     - name: Update pages
       uses: actions/download-artifact@v2
       with:

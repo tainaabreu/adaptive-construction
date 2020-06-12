@@ -8,8 +8,8 @@ suppress-bibliography: false
 nocite: "@*"
 ---
 
-Planos de Trabalho
-==================
+Planos de trabalho de iniciação científica
+==========================================
 
 
 - [Arqueologia da casa da fazenda Gama](pibic21-gama.md):

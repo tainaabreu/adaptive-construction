@@ -11,8 +11,8 @@ vpath default.% lib/pandoc-templates
 
 # Jekyll {{{2
 # ------
-SRC           = $(filter-out README.md,$(wildcard *.md))
-DOCS         := $(patsubst %.md,tmp/%.md, $(SRC))
+SRC   = $(filter-out README.md,$(wildcard *.md))
+DOCS := $(patsubst %.md,tmp/%.md, $(SRC))
 
 serve : 
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'

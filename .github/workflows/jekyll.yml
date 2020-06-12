@@ -31,13 +31,13 @@ jobs:
     - name: Checkout gh-pages branch
       uses: actions/checkout@v2
       with:
-        ref : 'gh-pages'
+        ref: 'gh-pages'
         fetch-depth: 0
     - name: Merge changes from master
       run: |
         git config --local user.email "runner@github.com"
         git config --local user.name  "$GITHUB_ACTOR"
-        git merge origin/master
+        git merge -s ours origin/master
     - name: Update pages
       uses: actions/download-artifact@v2
       with:

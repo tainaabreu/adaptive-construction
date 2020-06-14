@@ -64,16 +64,14 @@ Modeling (HBIM) e dos Sistemas de Informação Geográfica (SIG).
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Esta pesquisa será desenvolvida em três etapas:
+•	Análise da integração e das relações espaciais no mapa do Distrito Federal por meio do programa QGIS e fotos, gerando o levantamento do conjunto arquitetônico utilizando representação gráfica.
+•	Classificação dos sistemas e componentes construtivos empregados na fazenda Velha através de visitas ao local, documentações existentes e imagens comparativas.
+•	Concordância das outras etapas e interpretação da inserção da Fazenda Velha na rede territorial do planalto Central mediante a explicação teórica, imagens e estudos gráficos.
+A abordagem desta pesquisa é, então, suprir a lacuna documental sobre a Fazenda Velha e sua Capela existente, pois tal locação é reconhecida como um elemento muito importante para o turismo de Brasília e é considerado um patrimônio histórico e artístico do DF. Contudo, contribuir com mais informações arquitetônicas e urbanísticas é essencial. 
+Este trabalho utilizará desde recursos mais atuais a recursos mais antigos, como a pesquisa via Internet e pesquisas em livros, revistas e artigos. Será analisado documentações e fotos da história da fazenda para coleta de dados para agregar no trabalho proposto. Softwares como AutoCad, SIG e QGIS servirão para os desenhos de mapeamento e implantação da antiga zona rural, assim como, SketchUp consisti em ser utilizado para desenhos de característica arquitetônica, como maquete eletrônica em 3D. Para representação gráfica e trabalhos com imagens serão utilizados os Softwares como, Illustrator, Photoshop e Power Point.
+Quanto a viabilidade, a FAU-UnB disponibiliza o laboratório de informática como o LIAU para coleta de informações da pesquisa e ateliês e salas para reuniões. A universidade oferece o acervo da Biblioteca Central da UnB juntamente com seu laboratório de informática para fins do trabalho. Para prevenção de suspensão de atividades presenciais, a pesquisa poderá ser realizada remotamente com as investigações e visitas no local de pesquisa.
 
-Texto com 4000 caracteres.
 
 
 Bibliografia
@@ -89,11 +87,27 @@ Texto com no máximo 2000 caracteres.
 Competências e habilidades
 ==========================
 
-Texto com no máximo 1000 caracteres.
+A aluna demostra ser comprometida as atividades acadêmicas podendo comprovar tal adjetivo por meio das menções e frequências nas matérias cursadas. Completou mais da metade da grade de história, sendo que nas matérias ARQUITERURA E URBANISMO DA SOCIEDADE INDUSTRIAL e ARQUITERURA E URBANISMO NO BRASIL COLÔNIA E IMPÉRIO obteve-se a menção SS.
+Possui conhecimento avançado em inglês e teve contato com lugares históricos como Pirinópolis, Rio de Janeiro e São Paulo o que demonstra o conhecimento da junção entre a teoria e a prática. Na cidade de Pirinópolis, foi feita uma visita, juntamente com Professores da FAU-UnB da mateira de INTRODUÇÃO A ARQUITETURA E URBANISMO. Já nas outras cidades, as visitas foram feitas por espontânea vontade da aluna, juntamente com incentivos de alguns professores durante aulas presenciais na faculdade.
+Apresenta habilidades nos Softwares Autocad, SketchUp, Photoshop, Illustrator, QGIS, Power Point, Excel e Word. Além de ser hábil em maquetes manuais.
+
 
 
 Cronograma
 ==========
 
-Mês a mês
+Agosto/2020 - FUNDAMENTAÇÃ E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias. 
+Setembro/2020 - FUNDAMENTAÇÃ E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias.
+
+Outubro/2020 - FUNDAMENTAÇÃ E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias.
+Novembro/2020 - VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.
+Dezembro/2020 - VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.
+Janeiro/2021 – VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.
+Fevereiro/2021 - ETAPAS DE DESENVOLVIMENTO TEXTUAL: Resumo - Pontos a serem abordados na pesquisa.
+Março/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Introdução - Embasamento teórico adotado na pesquisa.
+Abril/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Desenvolvimento - Expor dados e informações coletadas.
+Maio/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Desenvolvimento / Conclusão - Interpretar dados e informações coletadas.
+Junho/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Revisão - Apresentação de resultados e correções. 
+Julho/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Formatação.
+
 
